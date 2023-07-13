@@ -1,5 +1,3 @@
-當然！以下是使用 Python 使用 Ultralytics 的方法和簡單介紹的 Markdown 文件：
-
 # 使用 Python 與 Ultralytics
 
 [Ultralytics](https://www.ultralytics.com/) 是一個開源的深度學習研究框架，旨在提供易於使用的工具，協助開發者進行目標檢測、圖像分類和語意分割等任務。這裡提供了一個簡單的介紹和使用 Ultralytics 的方法：
